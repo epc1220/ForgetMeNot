@@ -1,4 +1,4 @@
-26785005425251561
+26786775074899166
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63412,6 +63412,13 @@ Bourns SRR1260 SMD inductor
 0
 2
 2
+Inductor_SMD
+L_Bourns_SRU3011_3.5x3.5mm
+Bourns SRU5016 series shielded SMD power inductor, 1.6mm height https://www.bourns.com/docs/product-datasheets/sru5016.pdf
+Bourns SRU5016 SMD inductor
+0
+4
+3
 Inductor_SMD
 L_Bourns_SRU5016_5.2x5.2mm
 Bourns SRU5016 series shielded SMD power inductor, 1.6mm height https://www.bourns.com/docs/product-datasheets/sru5016.pdf

@@ -8988,7 +8988,7 @@
 			(net 54 "Net-(BT1-+)")
 			(pinfunction "+")
 			(pintype "passive")
-			(uuid "fb9298aa-cd30-4ec6-b3a4-655805b27742")
+			(uuid "6827b5f7-b30e-4874-89c5-eb921dc83ba3")
 		)
 		(pad "2" smd rect
 			(at 0 0 90)
@@ -11004,7 +11004,7 @@
 		(end 152.92 110.88)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "Edge.Cuts")

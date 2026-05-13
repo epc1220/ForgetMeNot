@@ -667,6 +667,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Type",
+          "name": "Sim.Type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -725,7 +737,7 @@
         "uuid": "dee1350d-546c-4e18-bb45-a8f2e1eeaee0"
       }
     ],
-    "used_designators": "RV1,#PWR21-23,J1",
+    "used_designators": "J2-7,#PWR24",
     "variants": []
   },
   "sheets": [
